@@ -9,7 +9,7 @@ WISDM Dataset: https://drive.google.com/open?id=1JmzFS86QdwBYMyubFfWU1pf8mMgiw_1
 
 # How to execute the file
 1. Git clone or download this repo.
-2. Download and extract all files from the links provided in <strong>Dataset</strong> into the respective folders.
+2. Download and extract all files from the links provided in <strong>Dataset</strong> into the folder name "HARDataset" and "WISDMData" respectively.
 3. To Perform classification on UCI-HAR dataset: `python main_UCIHAR`
 4. Perform classification on WISDM dataset: `python main_WISDM` 
 
